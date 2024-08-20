@@ -76,7 +76,7 @@
 </template>
 
 <script setup>
-import logo from "../assets/Icons/DEVELOPER TEST - Logo BLACK.png"
+import logo from "@/assets/Icons/logo black.png"
 
 import search from "@/assets/Icons/Search Mouve.png"
 import login from "@/assets/Icons/Login.png"
