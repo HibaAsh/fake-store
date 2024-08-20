@@ -31,12 +31,12 @@
 </template>
 
 <script setup>
-import { useStore } from "@/store/useStore"
+import { useStore } from "..store/useStore"
 import { onMounted, ref } from "vue"
 import { useRoute } from "vue-router"
 
-import Header from '@/components/Header.vue'
-import Footer from '@/components/Footer.vue'
+import Header from '..components/Header.vue'
+import Footer from '..components/Footer.vue'
 
 
 const store = useStore()

@@ -13,7 +13,7 @@
 </template>
 
 <script setup>
-import darkBtn from "@/assets/Icons/Bottun.png"
+import darkBtn from "..assets/Icons/Bottun.png"
 
 </script>
 

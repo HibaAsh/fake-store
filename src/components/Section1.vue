@@ -26,7 +26,7 @@
 <script setup>
 import { ref } from "vue"
 
-import image from "@/assets/Images/Header.jpg"
+import image from "..assets/Images/Header.jpg"
 
 const autoplay = ref(3000)
 

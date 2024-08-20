@@ -23,10 +23,10 @@
 </template>
 
 <script setup>
-import image1 from "@/assets/Images/D.png"
-import image2 from "@/assets/Images/F.png"
-import image3 from "@/assets/Images/G.png"
-import image4 from "@/assets/Images/H.png"
+import image1 from "../assets/Images/D.png"
+import image2 from "../assets/Images/F.png"
+import image3 from "../assets/Images/G.png"
+import image4 from "../assets/Images/H.png"
 
 import { ref } from "vue"
 

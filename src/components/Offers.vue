@@ -28,14 +28,14 @@
 </template>
 
 <script setup>
-import image1 from "@/assets/Images/1.jpg"
-import image2 from "@/assets/Images/2.jpg"
-import image3 from "@/assets/Images/3.jpg"
-import image4 from "@/assets/Images/4.jpg"
-import image5 from "@/assets/Images/D.png"
-import image6 from "@/assets/Images/F.png"
-import image7 from "@/assets/Images/G.png"
-import image8 from "@/assets/Images/H.png"
+import image1 from "..assets/Images/1.jpg"
+import image2 from "..assets/Images/2.jpg"
+import image3 from "..assets/Images/3.jpg"
+import image4 from "..assets/Images/4.jpg"
+import image5 from "..assets/Images/D.png"
+import image6 from "..assets/Images/F.png"
+import image7 from "..assets/Images/G.png"
+import image8 from "..assets/Images/H.png"
 
 import { ref } from "vue"
 

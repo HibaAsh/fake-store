@@ -53,7 +53,7 @@
 </template>
 
 <script setup>
-import image from "@/assets/Icons/logo.png"
+import image from "../assets/Icons/logo.png"
 
 const categories = [
   { title: "Electronics", link: "electronics" },

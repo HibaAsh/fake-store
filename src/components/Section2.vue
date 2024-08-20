@@ -10,8 +10,8 @@
 </template>
 
 <script setup>
-import image1 from "@/assets/Images/Jewelry.jpg"
-import image2 from "@/assets/Icons/Bottun White.png"
+import image1 from "..assets/Images/Jewelry.jpg"
+import image2 from "..assets/Icons/Bottun White.png"
 
 </script>
 

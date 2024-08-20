@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-import image from "@/assets/Images/Untitled-1.jpg"
+import image from "..assets/Images/Untitled-1.jpg"
 </script>
 
 <style lang="scss" scoped>

@@ -76,12 +76,12 @@
 </template>
 
 <script setup>
-import logo from "@/assets/Icons/logo black.png"
+import logo from "../assets/Icons/logo black.png"
 
-import search from "@/assets/Icons/Search Mouve.png"
-import login from "@/assets/Icons/Login.png"
-import cart from "@/assets/Icons/Cart.png"
-import heart from "@/assets/Icons/heart_11613265.png"
+import search from "../assets/Icons/Search Mouve.png"
+import login from "../assets/Icons/Login.png"
+import cart from "../assets/Icons/Cart.png"
+import heart from "../assets/Icons/heart_11613265.png"
 import { useRouter } from "vue-router"
 
 const router = useRouter()
