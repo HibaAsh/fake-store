@@ -1,4 +1,4 @@
-# standard-vuetify
+# developer-test
 
 ## Project setup
 ```
